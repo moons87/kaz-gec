@@ -1,0 +1,6 @@
+# Основные зависимости
+datasets        # HuggingFace datasets — для загрузки MDBKD
+tqdm            # прогресс-бар
+
+# Опционально (для тестов)
+pytest

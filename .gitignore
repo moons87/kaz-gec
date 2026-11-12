@@ -1,0 +1,10 @@
+@'
+gec_model_final/
+gec_model_final1/
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+'@ | Out-File -Encoding utf8 .gitignore
