@@ -63,3 +63,5 @@ for sent in test_sentences:
     else:
         print("✨ Статус: Исправлено")
     print("-" * 30)
+
+    afasdsadsa
